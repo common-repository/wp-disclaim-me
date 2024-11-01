@@ -1,0 +1,15 @@
+=== WP-Disclaim-Me ===
+Contributors: dominicfallows
+Plugin link: http://wordpress.org/extend/plugins/wp-disclaim-me/
+
+
+== CHANGE LOG ==
+
+WP-Disclaim-Me 0.3.1 (dominicfallows 19-Jun-2009)
+* New: Tested with Wordpress 2.8
+
+WP-Disclaim-Me 0.3 (dominicfallows 18-Jun-2009)
+* New: WYSIWYG editor on admin pages - using TinyMCE
+* Update: CSS for Disclaimer content (front-end) left aligned by default, this can be changed with the WYSIWYG editor in the admin pages
+* Update: When saving updated content, the page displays update status (Ok or error) but keeps the page visible so you don't have to re-navigate to the admin page
+* BugFix: When updating/activated it will keep your current disclaimer contents
